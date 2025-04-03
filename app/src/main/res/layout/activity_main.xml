@@ -156,7 +156,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="32dp"
-                android:text="html@gmail.com"
+                android:text="tun@gmail.com"
                 android:textColor="#666666"
                 android:textSize="16sp" />
         </TableRow>
